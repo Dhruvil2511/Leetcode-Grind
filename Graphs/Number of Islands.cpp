@@ -1,4 +1,4 @@
-// DFS Algorithm to solve this problem
+//using  DFS Algorithm to solve this problem
 class Solution {
 public:
     void dfs(int row,int col,vector<vector<char>>&grid){
@@ -27,4 +27,3 @@ public:
     }
 };
 
-// Using connected components to solve this
